@@ -18,3 +18,8 @@ Aplicação simples de lista de tarefas (To-Do List) desenvolvida com **HTML, CS
 - Git e GitHub
 
 
+```bash
+git clone https://github.com/thsaraiva1/Lista-de-tarefas.git
+
+
+
