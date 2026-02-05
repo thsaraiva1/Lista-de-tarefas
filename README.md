@@ -17,9 +17,12 @@ Aplicação simples de lista de tarefas (To-Do List) desenvolvida com **HTML, CS
 - JavaScript (Vanilla JS)
 - Git e GitHub
 
+![lista tarefas](https://github.com/user-attachments/assets/23360ad7-8834-4981-8951-ec51a7e8732f)
 
 ```bash
 git clone https://github.com/thsaraiva1/Lista-de-tarefas.git
+
+
 
 
 
